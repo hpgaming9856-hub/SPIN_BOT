@@ -332,7 +332,7 @@ box_center "📢 ধাপ ২.৯ — Telegram Channel" "$YELLOW"
 box_line
 box_left "💎 ফ্রি ফায়ার বট আপডেট পেতে জয়েন করুন" "$WHITE"
 box_line
-box_left "🔗 Premiume_FF_Tcp_bot_Community" "$CYAN"
+box_left "🔗 HP_MD_HASAN" "$CYAN"
 box_left "📲 Termux থেকে Telegram এ নিয়ে যাচ্ছি..." "$YELLOW"
 box_bot
 echo ""
@@ -351,7 +351,7 @@ echo ""
 #  STEP 3 — GitHub থেকে OB55-SPIN ক্লোন
 # ═══════════════════════════════════════════════════════════════════════════
 box_top
-box_center "📥 ধাপ ৩ — OB55-SPIN ক্লোন" "$YELLOW"
+box_center "📥 ধাপ ৩ — SPIN_BOT ক্লোন" "$YELLOW"
 box_line
 
 if [ -d "/sdcard" ]; then
@@ -363,10 +363,10 @@ else
 fi
 
 TARGET_DIR="$INTERNAL/OB55 SPIN"
-REPO_URL="https://github.com/Ariyan20267/OB55-SPIN.git"
+REPO_URL="https://github.com/hpgaming9856-hub/SPIN_BOT.git"
 
-box_left "📂 টার্গেট ফোল্ডার: OB55 SPIN" "$CYAN"
-box_left "🔗 রিপো: OB55-SPIN.git" "$CYAN"
+box_left "📂 টার্গেট ফোল্ডার: SPIN_BOT" "$CYAN"
+box_left "🔗 রিপো: SPIN_BOT.git" "$CYAN"
 box_line
 
 if [ -d "$TARGET_DIR" ]; then
